@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yupdown&layout=compact)](https://github.com/yupdown/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wts1597)](https://solved.ac/wts1597)
+![](https://raw.githubusercontent.com/yupdown/yupdown/main/output/light_card.svg)
 
 <!--
 **Yupdown/Yupdown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
